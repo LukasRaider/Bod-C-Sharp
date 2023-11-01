@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\bin\Debug\net6.0\Bod.exe
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\bin\Debug\net6.0\Bod.deps.json
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\bin\Debug\net6.0\Bod.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\bin\Debug\net6.0\Bod.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\bin\Debug\net6.0\Bod.pdb
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\Bod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\Bod.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\Bod.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\Bod.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\Bod.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\refint\Bod.dll
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\Bod.pdb
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\Bod.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\Repeate\Bod\obj\Debug\net6.0\ref\Bod.dll
